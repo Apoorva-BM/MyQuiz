@@ -1,0 +1,157 @@
+{
+  "questions": [{
+          "questionText": "How many 0.5cm slices can you cut from a bread that is 25cm long? ",
+          "options": [{
+                  "text": "50",
+                  "correct": true
+              },
+              {
+                  "text": "25"
+              },
+              {
+                  "text": "39"
+              },
+              {
+                  "text": "None of the above."
+              }
+          ]
+      },
+      {
+          "questionText": "The answer is really big. ",
+          "options": [{
+                  "text": "The data given is insufficient."
+              },
+              {
+                  "text": "An elephant."
+              },
+              {
+                  "text": "Really big."
+              },
+              {
+                  "text": "THE ANSWER.",
+                  "correct": true
+              }
+          ]
+      },
+      {
+          "questionText": "Divide 30 by half and add ten. ",
+          "options": [{
+                  "text": "50."
+              },
+              {
+                  "text": "70",
+                  "correct": true
+              },
+              {
+                  "text": "40.5"
+              },
+              {
+                  "text": "I know this is a trick question, so NONE. Ha!"
+              }
+            ]
+      },
+      {
+          "questionText": "There are two clocks of different colors: The green clock is broken and doesn't run at all, but the yellow clock loses one second every 24 hours. Which clock is more accurate? ",
+          "options": [{
+                  "text": "Neither"
+              },
+              {
+                  "text": "The green clock",
+                  "correct": true
+              },
+              {
+                  "text": "The yellow clock"
+              },
+              {
+                  "text": "Both"
+              }
+          ]
+      },
+      {
+          "questionText": "A farmer has 17 goats. All of them but 8 die. How many goats are alive? ",
+          "options": [{
+                  "text": "8",
+                  "correct": true
+              },
+              {
+                  "text": "9"
+              },
+              {
+                  "text": "35"
+              },
+              {
+                  "text": "25"
+              }
+          ]
+      },
+      {
+          "questionText": "If a leaf falls to the ground in a jungle, and no one hears it, will it make a sound?",
+          "options": [{
+                  "text": "Depends on the place it landed."
+              },
+              {
+                  "text": "Depends on how heavy the leaf was."
+              },
+              {
+                  "text": "No"
+              },
+              {
+                  "text": "Yes",
+                  "correct": true
+              }
+          ]
+      },
+      {
+          "questionText": "There are 45 mangoes in your basket. You take three out of the basket. How many mangoes are left?",
+          "options": [{
+                  "text": "42"
+              },
+              {
+                  "text": "45",
+                  "correct": true
+              },
+              {
+                  "text": "3"
+              },
+              {
+                  "text": "I do not eat mangoes!"
+              }
+          ]
+
+      },
+      {
+          "questionText": "Jimmy's father has three sons- Paul I and Paul II. Can you guess the name of the third son?",
+          "options": [{
+                  "text": "Jimmy",
+                  "correct": true
+              },
+              {
+                  "text": "Jerin"
+              },
+              {
+                  "text": "Paul III"
+              },
+              {
+                  "text": "None"
+              }
+          ]
+      },
+      {
+          "questionText": "You're 4th place right now in a race. What place will you be in when you pass the person in 3rd place?",
+          "options": [{
+                  "text": "3rd",
+                  "correct": true
+              },
+              {
+                  "text": "2nd"
+              },
+              {
+                  "text": "1st"
+              },
+              {
+                  "text": "None of the above"
+              }
+          ]
+      }
+  ]
+}

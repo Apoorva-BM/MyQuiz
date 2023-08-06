@@ -1,0 +1,45 @@
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 6px;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+.card {
+
+  max-width: 800px;
+  border: 1px solid #ccc;
+  margin: 0 auto;
+  padding: 10px;
+
+}
+
+
+
+li {
+
+  list-style-type: none;
+
+  cursor: pointer;
+
+  margin: 10px 0;
+
+}
+
+
+
+li .card:hover {
+
+  background-color: lightblue;
+
+}
+
+
+
+ol {
+
+  padding: 0;
+
+}
